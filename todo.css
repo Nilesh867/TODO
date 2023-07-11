@@ -1,0 +1,56 @@
+body{
+	background-color:#3e313c1a;
+}
+
+.main{
+	text-align:center;
+	color:#ec7d7a;
+	font-style:revert;
+	font-size:100px;
+	text-decoration: underline;
+	
+}
+
+
+.container{
+	padding:30px;
+	border:3px solid #BCB9B8;
+	width:60%;
+	margin:auto;
+}
+
+.container .input{
+	width:87%;
+	height:40px;
+}
+
+.container .btn{
+	width:70px;
+	height:49px;
+}
+
+.container ul{
+	list-style:none;
+	padding:0px;
+
+}
+
+.container .btn{
+	font-size:17px;
+}
+
+.container li{
+	color:red;
+}
+
+.container li a{
+	float:right;
+	color:#000;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.container #error{
+	color:red;
+	font-size:14px;
+}
